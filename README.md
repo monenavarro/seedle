@@ -3,6 +3,8 @@
 `A Local Plants and Birds Information Search App built by the Seedle Team:`\
 `Coral Baker, Monica Navarro, Rupert Pople & David Campbell.`
 
+Watch our Demo video here: https://www.youtube.com/watch?v=-IuXqTlxuAM&t=4s&ab_channel=MonNavarro 
+
 -------
 <img src="https://i.imgur.com/FP5jGip.png" width="500" />
 
